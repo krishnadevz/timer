@@ -11,6 +11,5 @@
 
   <br>
  <b>Follow Me On twitter For regular Updates 
-  * **krishna kakade** -[krishnakakade](https://twitter.com/krishna_9918)
-  
+<a href="https://twitter.com/krishna_9918" target_blank="" <b>krishnakakade</b></a>
   # Thank you  
